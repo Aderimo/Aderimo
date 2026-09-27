@@ -1,22 +1,19 @@
 <h1 align="center">Aderimo</h1>
 
 <p align="center">
-  i build small tools that make annoying things one click.<br>
-  zor gelen işi tek tıka indiren küçük araçlar yapıyorum.
+  web designer & developer — smooth, animated, engaging experiences.<br>
+  küçük araçlar ve projeler yapıyorum.
 </p>
 
 ```ts
 const aderimo = {
   from: 'Türkiye 🇹🇷',
-  stack: ['TypeScript', 'Rust', 'C#'],
+  focus: ['web design', 'mobile projects', 'small tools'],
   building: [
     'DownKit  — media toolkit for Windows (Tauri + React)',
     'CoopKeep — Bannerlord co-op server manager',
   ],
-  links: {
-    discord: 'https://discord.gg/z72EaBazJG',
-    mail: 'esenyurtcocg65@gmail.com',
-  },
+  links: 'https://gitgit.me/aderimo',
 };
 ```
 
@@ -30,6 +27,13 @@ const aderimo = {
 | [AdePetBot](https://github.com/Aderimo/AdePetBot) | Discord ve web tabanlı pet geliştirme ve ekonomi sistemi |
 
 <h6 align="center">
+  <a href="https://gitgit.me/aderimo">all links</a> •
+  <a href="https://www.instagram.com/aderiimo">instagram</a> •
+  <a href="https://www.tiktok.com/@aderimo">tiktok</a> •
+  <a href="https://www.twitch.tv/aderimo">twitch</a> •
+  <a href="https://www.youtube.com/@aderimoo">youtube</a> •
+  <a href="https://x.com/aderimoo">x</a> •
   <a href="https://discord.gg/z72EaBazJG">discord</a> •
-  <a href="mailto:esenyurtcocg65@gmail.com">mail</a>
+  <a href="https://steamcommunity.com/id/Aderimo">steam</a> •
+  <a href="https://letterboxd.com/Aderimo">letterboxd</a>
 </h6>
