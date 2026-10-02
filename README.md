@@ -13,6 +13,7 @@ const aderimo = {
   building: [
     'DownKit  — media toolkit for Windows (Tauri + React)',
     'CoopKeep — Bannerlord co-op server manager',
+    'Gazbadi  — travel atlas (static Next.js site)',
   ],
   links: 'https://gitgit.me/aderimo',
 };
