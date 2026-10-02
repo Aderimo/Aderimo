@@ -9,7 +9,7 @@
 ```ts
 const aderimo = {
   from: 'Türkiye 🇹🇷',
-  focus: ['web design', 'mobile projects', 'small tools'],
+  focus: ['web design', 'mobile projects', 'small tools', 'open source'],
   building: [
     'DownKit  — media toolkit for Windows (Tauri + React)',
     'CoopKeep — Bannerlord co-op server manager',
