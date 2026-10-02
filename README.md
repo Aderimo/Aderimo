@@ -29,6 +29,7 @@ const aderimo = {
 | [Gazbadi](https://github.com/Aderimo/Gazbadi) | Travel Atlas — multilingual travel platform with Leaflet maps |
 | [namaz-oruc-takip](https://github.com/Aderimo/namaz-oruc-takip) | Prayer times & fasting tracker — hijri calendar, religious days |
 
+<!-- social links -->
 <h6 align="center">
   <a href="https://gitgit.me/aderimo">all links</a> •
   <a href="https://www.instagram.com/aderiimo">instagram</a> •
