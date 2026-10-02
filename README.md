@@ -23,7 +23,6 @@ const aderimo = {
 | --- | --- |
 | [downkit](https://github.com/Aderimo/downkit) | Download. Convert. Compress. Prepare. — free, open-source media tool for Windows |
 | [bannerlord-coopkeep](https://github.com/Aderimo/bannerlord-coopkeep) | Host a Bannerlord co-op server on your own PC, in one click |
-| [medtrack](https://github.com/Aderimo/medtrack) | Idempotent DB migrations & TİTCK medicine catalog import for MedTrack |
 | [rimora-opensource](https://github.com/Aderimo/rimora-opensource) | Next.js 14 + Firebase media discovery & tracking platform skeleton |
 | [Discord-adil-kuralar](https://github.com/Aderimo/Discord-adil-kuralar) | Moderator guide & AI-powered penalty advisor for Discord staff |
 | [Gazbadi](https://github.com/Aderimo/Gazbadi) | Travel Atlas — multilingual travel platform with Leaflet maps |
