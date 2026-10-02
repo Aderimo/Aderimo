@@ -19,7 +19,7 @@ const aderimo = {
 ```
 
 <!-- public projects only -->
-<h3>projects</h3>
+<h3>public projects</h3>
 
 | | |
 | --- | --- |
