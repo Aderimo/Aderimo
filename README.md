@@ -12,8 +12,6 @@ const aderimo = {
   building: [
     'DownKit  — media toolkit for Windows (Tauri + React)',
     'CoopKeep — Bannerlord co-op server manager',
-    'FlowDesk — offline-first desktop work platform',
-    'Marketa  — store management suite for Windows',
   ],
   links: 'https://gitgit.me/aderimo',
 };
@@ -25,13 +23,11 @@ const aderimo = {
 | --- | --- |
 | [downkit](https://github.com/Aderimo/downkit) | Download. Convert. Compress. Prepare. — free, open-source media tool for Windows |
 | [bannerlord-coopkeep](https://github.com/Aderimo/bannerlord-coopkeep) | Host a Bannerlord co-op server on your own PC, in one click |
-| [FlowDesk](https://github.com/Aderimo/FlowDesk) | Record-centric, view-agnostic offline-first desktop work platform |
-| [ekranat](https://github.com/Aderimo/ekranat) | Use your phone as a real second screen for Windows — cloud-free, encrypted |
-| [greyline](https://github.com/Aderimo/greyline) | Browser-based 2.5D survival game with a deterministic TypeScript sim core |
-| [marketa](https://github.com/Aderimo/marketa) | Offline store management suite for Windows — stock, FEFO warehouse, cash register |
 | [medtrack](https://github.com/Aderimo/medtrack) | Idempotent DB migrations & TİTCK medicine catalog import for MedTrack |
 | [rimora-opensource](https://github.com/Aderimo/rimora-opensource) | Next.js 14 + Firebase media discovery & tracking platform skeleton |
-| [AdePetBot](https://github.com/Aderimo/AdePetBot) | Discord-first pet progression & economy bot with web panel |
+| [Discord-adil-kuralar](https://github.com/Aderimo/Discord-adil-kuralar) | Moderator guide & AI-powered penalty advisor for Discord staff |
+| [Gazbadi](https://github.com/Aderimo/Gazbadi) | Travel Atlas — multilingual travel platform with Leaflet maps |
+| [namaz-oruc-takip](https://github.com/Aderimo/namaz-oruc-takip) | Prayer times & fasting tracker — hijri calendar, religious days |
 
 <h6 align="center">
   <a href="https://gitgit.me/aderimo">all links</a> •
