@@ -18,6 +18,7 @@ const aderimo = {
 };
 ```
 
+<!-- public projects only -->
 <h3>projects</h3>
 
 | | |
