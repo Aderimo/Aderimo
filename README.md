@@ -11,9 +11,10 @@ const aderimo = {
   from: 'Türkiye 🇹🇷',
   focus: ['web design', 'mobile projects', 'small tools', 'open source'],
   building: [
-    'DownKit  — media toolkit for Windows (Tauri + React)',
-    'CoopKeep — Bannerlord co-op server manager',
-    'Gazbadi  — travel atlas (static Next.js site)',
+    'DownKit    — media app for Windows (Tauri + React)',
+    'CoopKeep   — Bannerlord co-op server manager',
+    'AdeBot     — one-command Discord community setup',
+    'SleepTimer — tiny shutdown timer for Windows',
   ],
   links: 'https://gitgit.me/aderimo',
 };
@@ -24,10 +25,12 @@ const aderimo = {
 
 | | |
 | --- | --- |
-| [downkit](https://github.com/Aderimo/downkit) | Download. Convert. Compress. Prepare. — free, open-source media tool for Windows |
+| [downkit](https://github.com/Aderimo/downkit) | Download. Convert. Edit. Record. Capture. — free, open-source media app for Windows |
 | [bannerlord-coopkeep](https://github.com/Aderimo/bannerlord-coopkeep) | Host a Bannerlord co-op server on your own PC, in one click |
+| [AdeBot](https://github.com/Aderimo/AdeBot) | Set up a whole Discord community with one command — roles, rules, logs, moderation, pet game |
+| [sleeptimer](https://github.com/Aderimo/sleeptimer) | Pick a time, fall asleep, the PC turns itself off — tiny shutdown timer for Windows |
+| [saniye-yetkili-kilavuzu](https://github.com/Aderimo/saniye-yetkili-kilavuzu) | Moderator guide & AI-powered penalty advisor for Discord staff |
 | [rimora-opensource](https://github.com/Aderimo/rimora-opensource) | Next.js 14 + Firebase media discovery & tracking platform skeleton |
-| [Discord-adil-kuralar](https://github.com/Aderimo/Discord-adil-kuralar) | Moderator guide & AI-powered penalty advisor for Discord staff |
 | [Gazbadi](https://github.com/Aderimo/Gazbadi) | Travel Atlas — multilingual travel platform with Leaflet maps |
 | [namaz-oruc-takip](https://github.com/Aderimo/namaz-oruc-takip) | Prayer times & fasting tracker — hijri calendar, religious days |
 
